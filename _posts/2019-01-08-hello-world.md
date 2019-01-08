@@ -14,10 +14,11 @@ Things that I took into account while making this decision was :
 * Hosting experience needs to be seamless & lean for me
 * No overt use of JS & CSS unless it is really required
 
-I dabbled with Jekyll , Octopress , GatsBy & Origami for a blogging platform.
-And looked at AWS , GCP  , Heroku & Github for hosting.
+I experimented with [Jekyll](https://jekyllrb.com/) , [Octopress](http://octopress.org/) , [GatsBy](https://www.gatsbyjs.org/) & [Origami](http://www.origami.so/) for a blogging platform.
 
-At the end of it , I decided to go with Jekyll + Github because : 
+And looked at [AWS](https://aws.amazon.com) , [GCP](https://cloud.google.com)  , [Heroku](https://www.heroku.com/) & [Github](https://github.com) for hosting.
+
+At the end of it , I decided to go with **Jekyll + Github** because : 
  - It was easy to use , costed me zero dollars to host & deploy.
  - I could focus on just creating posts 
  - Was easy enough
