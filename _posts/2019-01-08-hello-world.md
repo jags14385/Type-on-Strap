@@ -2,14 +2,11 @@
 layout: post
 title: Hello World
 tags: [hello,world,ciao]
-excerpt_separator: <!--more-->
 ---
 
 The customary hello world blog post. 
 
-
 It took me a while to zero in on the blog platform / ecosystem I wanted to use.
-
 
 Things that I took into account while making this decision was :
 

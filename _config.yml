@@ -46,7 +46,7 @@ theme_settings:
   share_buttons:
     facebook: false
     twitter: true
-    google_plus: true
+    google_plus: false
     tumblr:
     pinterest:
     pocket:
