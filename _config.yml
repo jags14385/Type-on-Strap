@@ -18,7 +18,7 @@ theme_settings:
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: ©2019
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
