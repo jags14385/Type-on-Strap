@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World
-tags: [hello,world,ciao]
 ---
 
 The customary hello world blog post. 
