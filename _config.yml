@@ -60,13 +60,13 @@ theme_settings:
   disqus_shortname:
   katex: true # Enable if using math markup
   
-  special_page:
-    search: 
-      icon: "search"
-      enabled: true
-    tags:
-      icon: "tags"
-      enabled: true
+  # special_page:
+  #   search: 
+  #     icon: "search"
+  #     enabled: false
+  #   tags:
+  #     icon: "tags"
+  #     enabled: false
   
   # Localization strings
   str_follow_on: "Follow on"
