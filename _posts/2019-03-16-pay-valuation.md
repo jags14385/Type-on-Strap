@@ -45,3 +45,5 @@ Discussing your salalry with people whom you really trust in the same sphere of 
 really helps, to know where you are.
 
 Market / Industry standards are more often than not misleading, and do not always help you in the negotiation. if you are getting paid below the "market/industry standards" you are severely underpaid, because I believe the standards in Software industry are skewed towards the lower end.
+
+If you stay at a place where you are learning a lot and sacrificing pay , you need to timebox it. You cannot go like that for more than 12 months, because one never stops learning.
