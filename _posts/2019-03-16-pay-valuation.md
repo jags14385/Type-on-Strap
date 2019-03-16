@@ -11,8 +11,8 @@ I have been working since Spetmber of 2010 onwards and it has taken me close to 
 The interpretation of what PAY means to me has evolved and also my understanding of it.
 
 Articles such as : 
-- https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-- https://georgestocker.com/2019/03/14/my-salary-progression-in-tech/
+- [ https://www.kalzumeus.com/2012/01/23/salary-negotiation/](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [ https://georgestocker.com/2019/03/14/my-salary-progression-in-tech/](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - Many more
 
 have helped me , come to some decisions and insights .
