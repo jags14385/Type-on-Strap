@@ -34,4 +34,14 @@ In addition to this , I used some sort of average statistics to decide if I am t
 
   Having a mentor helps , but isn't always required. Enough great role models on the internet to help out.
 
+  You define your parameters and own it.
 
+
+I believe I have digressed by a lot. Coming back to the point.  Currently I work as contractor, I ended yup making a google sheet to decide the corresponding 
+daily pay rate to get a 120 % of an annual full time permamnent salary. this would give you the baseline.
+
+Depending on the opurtunity and your skills , you can deviate " + or - of  7.5 % ".
+Discussing your salalry with people whom you really trust in the same sphere of work 
+really helps, to know where you are.
+
+Market / Industry standards are more often than not misleading, and do not always help you in the negotiation. if you are getting paid below the "market/industry standards" you are severely underpaid, because I believe the standards in Software industry are skewed towards the lower end.
