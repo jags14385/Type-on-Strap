@@ -22,9 +22,16 @@ Most of the articles I have read, have been predominantly of US Companies. This 
 In addition to this , I used some sort of average statistics to decide if I am the norm or the outlier in a given trend / behavior pattern observed in the industry.
 
 - Not all oppurtunities are equal
+- For the below to work , you must not be a asshole/sexist/racist or any word which is similar or a synonym.
 - Your Potential Future Pay = ( function(skills you bring) * relevance_factor *         
                                       perceived_value * learning/adaptation_coefficient  expectations_from_life * Non monetary componenets of the Pay ) * risk_profile + Luck
 
       Luck is a small factor , but not small enough to be ignored.
+
+  Skills that you bring to the table depends on the intial oppurtunities and quality of those. This means that if you start at FAANG or similar natured companies , you would be on a faster and a better trajectory comapred to others, statistically speaking.
+
+  Self Learning helps a lot, in cases where you rjob doesn't provide you the kind of things you want to work on. It helps , if you identify yourself in such a situation and start dloing the required remedial work, to ensure the quality stays.
+
+  Having a mentor helps , but isn't always required. Enough great role models on the internet to help out.
 
 
