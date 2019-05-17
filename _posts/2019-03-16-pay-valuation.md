@@ -1,49 +1,35 @@
 ---
 layout: post
-title: Pay Valuation ( DRAFT )
+title: Pay Valuation
 date: 2019-03-16
 ---
 
-Something that I really care about in my carrer in addition to a lot of other things is "PAY" .
+I really care about in my __Career Progression__ in addition to a lot of other things is __PAY__ .
 
-I have been working since Spetmber of 2010 onwards and it has taken me close to 8 and something years to visualise how much I want to get paid or what exactly I am looking for in terms of pay. 
+It has taken me close to some 8+ years to understand and visualise how much I want to get paid or what exactly I am looking for in terms of pay. 
 
-The interpretation of what PAY means to me has evolved and also my understanding of it.
+The interpretation of what __PAY__ means has evolved over time , for me.
 
-Articles such as : 
+Sources such as : 
 - [ https://www.kalzumeus.com/2012/01/23/salary-negotiation/](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [ https://georgestocker.com/2019/03/14/my-salary-progression-in-tech/](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-- Many more
+- __Reddit__ & the __Internet__ in general
 
-have helped me , come to some decisions and insights .
+have helped me navigate this labyrith.
 
-Most of the articles I have read, have been predominantly of US Companies. This helped me understand expectations and also confused me , because the slary structures and offering in US is coherently different from India and Australia, among others.
+Most of the articles I have read, have been predominantly of US based companies. This helped me understand expectations and also confused me , because the pay structures and offerings in US are differentcompared to other countries such as India & Australia, among others.
 
-In addition to this , I used some sort of average statistics to decide if I am the norm or the outlier in a given trend / behavior pattern observed in the industry.
+Additionally, I used some sort of average statistics to decide if I am the norm or the outlier in a given trend / behavior pattern observed in the industry.
 
-- Not all oppurtunities are equal
-- For the below to work , you must not be a asshole/sexist/racist or any word which is similar or a synonym.
-- Your Potential Future Pay = ( function(skills you bring) * relevance_factor *         
-                                      perceived_value * learning/adaptation_coefficient  expectations_from_life * Non monetary componenets of the Pay ) * risk_profile + Luck
+Sources used for these calculations are :
+- StackOverFlow Developer Survey
+- Salary Distribution (incld perks + work life balance), among peers across different tech companies in the same discipline
+- Inputs from Recruiters around what jobs are out there and pay structures + perks for those aforesaid jobs.
 
-      Luck is a small factor , but not small enough to be ignored.
+Assumptions taken while making these analysis :
+- __PAY__ = __MONETARY SUM__ + __PERKS__ + __WORK LIFE BALANCE__ .
+- One cannot just have a amazing carrer progression over a period of time , without being paid well. I have seen enough examples of it. You are free to disagree with this.
+- You must not be a asshole/sexist/racist or any word which is similar or a synonym.
+- Not all oppurtunities are equal.
 
-  Skills that you bring to the table depends on the intial oppurtunities and quality of those. This means that if you start at FAANG or similar natured companies , you would be on a faster and a better trajectory comapred to others, statistically speaking.
-
-  Self Learning helps a lot, in cases where you rjob doesn't provide you the kind of things you want to work on. It helps , if you identify yourself in such a situation and start dloing the required remedial work, to ensure the quality stays.
-
-  Having a mentor helps , but isn't always required. Enough great role models on the internet to help out.
-
-  You define your parameters and own it.
-
-
-I believe I have digressed by a lot. Coming back to the point.  Currently I work as contractor, I ended yup making a google sheet to decide the corresponding 
-daily pay rate to get a 120 % of an annual full time permamnent salary. this would give you the baseline.
-
-Depending on the opurtunity and your skills , you can deviate " + or - of  7.5 % ".
-Discussing your salalry with people whom you really trust in the same sphere of work 
-really helps, to know where you are.
-
-Market / Industry standards are more often than not misleading, and do not always help you in the negotiation. if you are getting paid below the "market/industry standards" you are severely underpaid, because I believe the standards in Software industry are skewed towards the lower end.
-
-If you stay at a place where you are learning a lot and sacrificing pay , you need to timebox it. You cannot go like that for more than 12 months, because one never stops learning.
+P.S.: Work life balance has a diverse interpretation and hence canot just be included in as a perk.
