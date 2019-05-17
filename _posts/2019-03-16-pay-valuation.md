@@ -41,10 +41,10 @@ Let's now just talk about the __Skills__ because this is the one of key factors 
 
 If Potential Future Pay (let's say __PFP__ for ease) can be represented as function,it could be described loosely by the below equation :
 
-__PFP__ current = Pay for Skills you bring to the table * relevance_factor of those skills * expertise_factor ; 
-__Relevance_factor of those skills__ can also be termed as __Perceived value of those skills__
-__Bargaining Power__ = expertise_factor(skills) * Relevance_factor(skills) * demand_factor of those skills
-__PFP__ future = __PFP__ current * __Bargaining Power__ + __Perks at Job__ + __Work Life Balance__
+- __PFP__ current = Pay for Skills you bring to the table * relevance_factor of those skills * expertise_factor
+- __Relevance_factor of those skills__ can also be termed as __Perceived value of those skills__
+- __Bargaining Power__ = expertise_factor(skills) * Relevance_factor(skills) * demand_factor of those skills
+- __PFP__ future = __PFP__ current * __Bargaining Power__ + __Perks at Job__ + __Work Life Balance__
 
 Things to consider while thinking your ```__PFP__ future``` :
 
@@ -57,6 +57,6 @@ Things to consider while thinking your ```__PFP__ future``` :
 - Discussing your salary with people whom you really trust in the same sphere of work really helps, to know where you are.This is not always easy and you may get burnt sometimes. For me , it was a really eye opening experience, mostly positive.
 - Market / Industry standards are more often than not misleading, and do not always help you in the negotiation. if you are getting paid below the "market/industry standards" you are severely underpaid, because I believe the standards in Software industry are skewed towards the lower end.
 
-If you stay at a place where you are learning a lot and sacrificing pay , you need to timebox it. You cannot go like that for more than 12 to 15 months, because one never stops learning and your work will always keep improving.
+If you stay at a place where you are learning a lot and sacrificing pay , you need to timebox it. You cannot go like that for more than 12 to 15 months, because one never stops learning and your work will always keep improving. Always keep gathering data , evaluate , make changes accordingly and repeat.
 
 Hope this helps :) . Cheers.
