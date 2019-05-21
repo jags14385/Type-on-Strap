@@ -17,13 +17,13 @@ Sources such as :
 
 have helped me navigate this labyrith.
 
-Most of the articles I have read, have been predominantly of US based companies. This helped me understand expectations and also confused me , because the pay structures and offerings in US are differentcompared to other countries such as India & Australia, among others.
+Most of the articles I have read, have been predominantly of US based companies. This helped me understand expectations and also confused me , because the pay structures and offerings in US are different compared to other countries such as India & Australia, among others.
 
 Additionally, I used some sort of average statistics to decide if I am the norm or the outlier in a given trend / behavior pattern observed in the industry.
 
 Sources used for these calculations are :
 - StackOverFlow Developer Survey
-- Salary Distribution (incld perks + work life balance), among peers across different tech companies in the same discipline
+- Salary Distribution (including perks provided at a workplace + work life balance), among peers across different tech companies in the same discipline
 - Inputs from Recruiters around what jobs are out there and pay structures + perks for those aforesaid jobs.
 
 Assumptions taken while making these analysis :
