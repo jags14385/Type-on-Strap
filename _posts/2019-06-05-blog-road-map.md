@@ -10,6 +10,7 @@ I use this blog to record my learnings. So , I eventaully want to experiment & r
 - [Cypress](https://www.cypress.io/)
 - [Detox](https://medium.com/reactive-hub/detox-vs-appium-ui-tests-in-react-native-2d07bf1e244f)
 - [Truffle Framework](https://www.truffleframework.com/)
+- [TestCafe](https://github.com/DevExpress/testcafe)
 
 Any thing else comes to your mind, tweet to me . You can find my twitter handle in the footer.
 
