@@ -9,7 +9,6 @@ date: 2019-08-29
 " Or am I someone "  
 " What am I to you .... "  
 
-
 " What am I for you ???? "  
 " Am I love or hate "  
 " Am I hope or despair "  
@@ -22,8 +21,8 @@ date: 2019-08-29
 " What am I to you .... "  
 " What am I for you .... "  
 
-
-Hence, something to ponder about :  
+---
+**Hence, something to ponder about :  **  
 We ask this question, every single waking moment of our lives in one way or other. Is it really a question though ?
 Are we really oblivious to the answer or do we lack the
 courage to face the answer head on or do we hope that our  
@@ -40,4 +39,4 @@ hope and despair in waves and bouts.
 
 This struggle & the way we repsond to this defines us, in many a ways.
 
-P.S. : Partially inspired by [The Lightning Brigade](https://poets.org/poem/charge-light-brigade)
+**P.S. : Partially inspired by [The Lightning Brigade](https://poets.org/poem/charge-light-brigade)**
