@@ -23,8 +23,7 @@ date: 2019-08-29
 " What am I for you .... "  
 
 
-Sometimes I ponder : 
-
+Hence, something to ponder about :  
 We ask this question, every single waking moment of our lives in one way or other. Is it really a question though ?
 Are we really oblivious to the answer or do we lack the
 courage to face the answer head on or do we hope that our  
