@@ -4,27 +4,26 @@ title: Love Hope & Vulnerability
 date: 2019-08-29
 ---
 
-Title : Love Hope & Vulnerability
-
-" What am I to you .... "
-" Am I a stranger "
-" Or am I someone "
-" What am I to you .... "
-
-" What am I for you ???? "
-" Am I love or hate "
-" Am I hope or despair "
-" Am I courage or dread "
-" What am I for you ???? "
-
-" What am I to you .... "
-" Am I the past or the present "
-" Or am I the shrouded future "
-" What am I to you .... "
-" What am I for you .... "
+" What am I to you .... "  
+" Am I a stranger "  
+" Or am I someone "  
+" What am I to you .... "  
 
 
-I ponder : 
+" What am I for you ???? "  
+" Am I love or hate "  
+" Am I hope or despair "  
+" Am I courage or dread "  
+
+" What am I for you ???? "  
+" What am I to you .... "  
+" Am I the past or the present "  
+" Or am I the shrouded future "  
+" What am I to you .... "  
+" What am I for you .... "  
+
+
+Sometimes I ponder : 
 
 We ask this question, every single waking moment of our lives in one way or other. Is it really a question though ?
 Are we really oblivious to the answer or do we lack the
@@ -41,3 +40,5 @@ we perceive is hard.The reality we perceive is sometimes is the reality we badly
 hope and despair in waves and bouts.
 
 This struggle & the way we repsond to this defines us, in many a ways.
+
+P.S. : Partially inspired by [The Lightning Brigade](https://poets.org/poem/charge-light-brigade)
