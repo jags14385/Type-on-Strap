@@ -4,25 +4,25 @@ title: Love Hope & Vulnerability
 date: 2019-08-29
 ---
 
-" What am I to you .... "  
-" Am I a stranger "  
-" Or am I someone "  
-" What am I to you .... "  
+ What am I to you,   
+ Am I a stranger  
+ Or am I someone     
+ What am I to you .   
 
-" What am I for you ???? "  
-" Am I love or hate "  
-" Am I hope or despair "  
-" Am I courage or dread "  
+ What am I for you ?   
+ Am I love or hate   
+ Am I hope or despair   
+ Am I courage or dread   
+ What am I for you ?    
 
-" What am I for you ???? "  
-" What am I to you .... "  
-" Am I the past or the present "  
-" Or am I the shrouded future "  
-" What am I to you .... "  
-" What am I for you .... "  
+ What am I to you,  
+ Am I the past or the present   
+ Or am I the shrouded future   
+ What am I to you ?  
+ What am I for you ?     
 
 ---
-**Hence, something to ponder about :  **  
+**Hence, something to ponder about :**  
 We ask this question, every single waking moment of our lives in one way or other. Is it really a question though ?
 Are we really oblivious to the answer or do we lack the
 courage to face the answer head on or do we hope that our  
