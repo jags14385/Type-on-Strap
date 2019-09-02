@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love Hope & Vulnerability
+title: Love, Hope & Vulnerability
 date: 2019-08-29
 # published: false
 ---
