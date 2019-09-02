@@ -7,11 +7,6 @@ date: 2019-08-29
 
 Love, Hope & Vulnerability
 
-Hidden are these feelings  
-shrouded are my fears  
-All I want, is not to hide  
-All I want, is to be seen  
-
 What am I to you,  
 Am I a stranger  
 Or am I someone  
@@ -32,7 +27,7 @@ What am I for you ?
 Hidden are these feelings  
 shrouded are my fears  
 All I want, is not to hide    
-All I want, is to be seen  
+All I want, is to be seen by you.... 
 
 ---
 **Hence, something to ponder about :**  
