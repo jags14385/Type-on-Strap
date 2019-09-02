@@ -5,8 +5,6 @@ date: 2019-08-29
 # published: false
 ---
 
-Love, Hope & Vulnerability
-
 What am I to you,  
 Am I a stranger  
 Or am I someone  
