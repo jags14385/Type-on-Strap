@@ -5,9 +5,10 @@ date: 2020-03-16
 ---
 
 The following is a more of a guideline on how to commit your code and why I think so.
-I am assuming Git as the version control, that being said, the following could be used for any Version Control System.
 
-Design Principles:
+I am assuming Git as the version control. However, the following could be used for any Version Control System.
+
+### Design Principles:
 
 - I want to use the same git workflow as much as possible , on different projects.
 - My pull requests should be easy to review and debug.
@@ -15,7 +16,7 @@ Design Principles:
 - Ensure linting and security.
 - Should be able to make changes to my workflow easily.
 
-Use :
+### Use :
 -  ` git diff --check `, which identifies any possible whitespace errors and lists them for you. This can be added as a 
 git hook potentially.
 
@@ -40,7 +41,7 @@ when writing code.
  You can make incremental chnages over time.
 
 
-Sources I have used for reference: 
+### Sources I have used for reference: 
 
 - [Git Documentation for Submitting patches](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?id=HEAD#n133)
 - [Dotfiles](https://dotfiles.github.io)
