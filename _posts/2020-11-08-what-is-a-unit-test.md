@@ -38,7 +38,7 @@ It blurs the boundary between a Unit test and Integration test, which is fine, f
 
 How would you check for contract testing, where other APIs have to interact with the Employee API and vice versa. The answer is Docker Images. I am using the dockerized version of the Employee API as a dependency for other APIs to consume and vice versa. It gives me the confidence to say `Employee API works fine with Version X of other APIs`. It helps with the independent deployment of the Employee API and other APIs.
 
-From this, we can come to an informed conclusion that, for a well-defined scope of work or UNIT, with well-defined development practices, the proverbial scope of Unit and Integration tests will merge. Depending on what you are testing for, the feedback loop will be super fast. The guidelines with which the original Unit tests targeted are still intact.
+From this, we can come to an informed conclusion that, for a well-defined scope of work or UNIT, with well-defined development practices, the proverbial boundary of Unit and Integration tests will merge. Depending on what you are testing for, the feedback loop will be super fast. Thus, even with a different approach, the principles of Unit Tests remain intact.
 
 Thanks for taking the time to read this.
 You can tweet to me @vaiuntj for feedback.
