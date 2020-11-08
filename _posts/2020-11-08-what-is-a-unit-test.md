@@ -19,9 +19,10 @@ The general attributes of such tests are :
 With the characteristics defined, let's talk about it, in the context of 
 [Serverless](https://en.wikipedia.org/wiki/Serverless_computing).
 
-Context : How would one write tests to test an API, which does only one thing ?? E.g.: Query the records of an employee with the provided search parameter
+Context : How would one write tests to test an API, which does only one thing ?? E.g.: Query the records of an employee from DB with the provided search parameter
 
 Questions:
  - What does a unit test (in its traditional definition) look like ?
  - What does a integration test look like ?
  - Is there an overlap ? Do we need both kind of tests for the problem at hand ?
+ - How do I approach this conundrum ?
