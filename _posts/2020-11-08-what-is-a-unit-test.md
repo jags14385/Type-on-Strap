@@ -41,4 +41,5 @@ How would you check for contract testing, where other APIs have to interact with
 From this, we can come to an informed conclusion that, for a well-defined scope of work or UNIT, with well-defined development practices, the proverbial boundary of Unit and Integration tests will merge. Depending on what you are testing for, the feedback loop will be super fast. Thus, even with a different approach, the principles of Unit Tests remain intact.
 
 Thanks for taking the time to read this.
-You can tweet to me @vaiuntj for feedback.
+
+You can tweet to me [@vaikuntj](https://twitter.com/vaikuntj) for feedback.
