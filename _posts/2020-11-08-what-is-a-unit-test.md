@@ -28,7 +28,7 @@ Questions:
  - Is there an overlap? Do we need both kinds of tests for the problem at hand?
  - How to approach this problem
 
-We can begin exploring this, by reading [Martin Fowler's take on [Solitary vs Sociable unit tests](https://www.martinfowler.com/bliki/UnitTest.html). 
+We can begin exploring this, by reading Martin Fowler's take on [Solitary vs Sociable unit tests](https://www.martinfowler.com/bliki/UnitTest.html). 
  
 I prefer talking to the database and getting back a response. Let's explore this approach further. You have spun up a database using [Docker](https://www.docker.com/) and have well-defined migration steps created and automated. Because of this setup, I can parallelize the execution of my test cases. This approach allows not to have Mocks or Stubs or Test Doubles for any my requirements. Let's evaluate its Pros & Cons.
 
