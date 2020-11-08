@@ -30,4 +30,15 @@ Questions:
 
 We can begin exploring this, by reading [Martin Fowler's take on [Solitary vs Sociable unit tests](https://www.martinfowler.com/bliki/UnitTest.html). 
  
- I prefer talking to DB and getting back a response. Let's explore this approach further. You have spun up a DB using [Docker](https://www.docker.com/) and have well-defined migration steps created and automated.
+I prefer talking to the database and getting back a response. Let's explore this approach further. You have spun up a database using [Docker](https://www.docker.com/) and have well-defined migration steps created and automated. Because of this setup, I can parallelize the execution of my test cases. This approach allows not to have Mocks or Stubs or Test Doubles for any my requirements. Let's evaluate its Pros & Cons.
+
+This talks to a DB. Hence Bad !!!. This is not true. The environment, I am talking to against is clean and I have absolute control over it. How many calls will you make in parallel (twenty at max, I presume)? Also, my tests are deterministic. I know, exactly, what data is present and what I can expect out of it. The whole test run, will run, under a minute.
+
+It blurs the boundary between a Unit test and Integration test, which is fine, for the scope of work (UNIT). The development practices that I adhere has allowed me to do this. You do not need to have two different sets of tests in this case. One set of test cases are functioning as both UNIT and Integration test cases. For a hosted environment, all that changes is the config and nothing else.
+
+How would you check for contract testing, where other APIs have to interact with the Employee API and vice versa. The answer is Docker Images. I am using the dockerized version of the Employee API as a dependency for other APIs to consume and vice versa. It gives me the confidence to say `Employee API works fine with Version X of other APIs`. It helps with the independent deployment of the Employee API and other APIs.
+
+From this, we can come to an informed conclusion that, for a well-defined scope of work or UNIT, with well-defined development practices, the proverbial scope of Unit and Integration tests will merge. Depending on what you are testing for, the feedback loop will be super fast. The guidelines with which the original Unit tests targeted are still intact.
+
+Thanks for taking the time to read this.
+You can tweet to me @vaiuntj for feedback.
