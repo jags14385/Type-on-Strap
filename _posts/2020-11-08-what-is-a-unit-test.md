@@ -6,7 +6,7 @@ date: 2020-11-08
 
 A test which asserts a "UNIT" is a Unit Test.
 
-In the OOPS world, the unit has usually been a class. Hence, we have unit tests which pertain to a per class.
+In the [OOPS world](https://en.wikipedia.org/wiki/Object-oriented_programming), the unit has usually been a class. Hence, we have unit tests which pertain to a per class.
 
 The general attributes of such tests are :
 
